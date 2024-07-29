@@ -27,7 +27,7 @@
         <img src="Pictures/node.png" width="40" style="object-fit: cover;" />
         <img src="Pictures/express.png" width="40" style="object-fit: cover;" />
         <img src="Pictures/react.png" width="40" style="object-fit: cover;" />
-        <img src="Pictures/next.png" width="40" style="object-fit: cover;" />
+        <img src="Pictures/next.webp" width="40" style="object-fit: cover;" />
         <img src="Pictures/remix.png" width="40" style="object-fit: cover;" />
         <img src="Pictures/tailwind.png" width="40" style="object-fit: cover;" />
         <img src="Pictures/docker.png" width="40" style="object-fit: cover;" />
