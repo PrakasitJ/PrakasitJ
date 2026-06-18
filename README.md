@@ -11,7 +11,7 @@
   
   **Where there is new technology, there is me.**
   
-  [![Website](https://img.shields.io/badge/🌐_Website-Visit_Portfolio-blue?style=for-the-badge)](https://prakasitj.github.io/readme)
+  [![Website](https://img.shields.io/badge/🌐_Website-Visit_Portfolio-blue?style=for-the-badge)](https://prakasitj.com)
 </div>
 
 ---
