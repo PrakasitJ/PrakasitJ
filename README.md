@@ -5,7 +5,7 @@
   
   ## 🎓 About Me
   
-  **I'm currently studying in my 4th year at Kasetsart University.**
+  **I'm a CS graduate from Kasetsart University.**
   
   **Now I'm currently in love with web development.**
   
